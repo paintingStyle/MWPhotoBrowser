@@ -1,5 +1,17 @@
 # MWPhotoBrowser
 
+## Updated Instructions
+
+**Update third library dependecy**
+
+- MBProgressHUD
+- 0.9 -> 1.0.0
+- SDWebImage
+- 3.7 ->  4.0.0
+- DACircularProgress
+- 2.3 -> 2.3.1
+
+
 <!--[![CI Status](http://img.shields.io/travis/Michael Waterfall/MWPhotoBrowser.svg?style=flat)](https://travis-ci.org/Michael Waterfall/MWPhotoBrowser)-->
 [![Version](https://img.shields.io/cocoapods/v/MWPhotoBrowser.svg?style=flat)](http://cocoapods.org/pods/MWPhotoBrowser)
 [![License](https://img.shields.io/cocoapods/l/MWPhotoBrowser.svg?style=flat)](http://cocoapods.org/pods/MWPhotoBrowser)
